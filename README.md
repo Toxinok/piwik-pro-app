@@ -12,6 +12,6 @@ Goal Tracking:
 Tracks custom goal conversions with optional revenue values.
 
 ## Next Steps:
-Verify the data in your Piwik PRO dashboard.
-Extend tracking by adding custom events, user attributes, or error tracking.
+Verify the data in your Piwik PRO dashboard.  
+Extend tracking by adding custom events, user attributes, or error tracking.  
 Add tracking to navigation, modals, or other user interactions.
